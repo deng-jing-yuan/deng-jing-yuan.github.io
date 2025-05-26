@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://scholar.google.com/citations?hl=en&user=FSTGDEAAAAAJ'>Google Scholar</a> | <a href='https://www.linkedin.com/in/deng-jing-yuan/'>LinkedIn</a> | <a href='mailto:jingyuan.deng@economics.ox.ac.uk'>Email</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
