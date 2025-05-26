@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /publications/
-title: Academic
-description: Academic publications and work in progress
+permalink: /policy/
+title: Policy
+description: Policy publications
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/policy.md -->
 
 <!-- Bibsearch Feature -->
 
