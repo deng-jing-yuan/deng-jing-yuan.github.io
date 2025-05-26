@@ -24,13 +24,31 @@
   },
   "work": [
     {
+      "name": "Asian Infrastructure Investment Bank",
+      "location": "Beijing",
+      "position": "Michaela Bergman Memorial Intern",
+      "url": "",
+      "startDate": "2023-07-01",
+      "endDate": "2023-10-01",
+      "summary": "Economics Department and Strategy, Policy and Budget Department"
+    },
+    {
+      "name": "World Bank",
+      "location": "Washington, DC",
+      "position": "Consultant",
+      "url": "",
+      "startDate": "2021-11-01",
+      "endDate": "2023-07-01",
+      "summary": "Chief Economist Office, Middle East and North Africa"
+    },
+    {
       "name": "CRU Group",
       "location": "London",
       "position": "Research Analyst",
       "url": "",
       "startDate": "2020-10-19",
       "endDate": "2021-10-29",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Agricultural and chemical commodities",
       "highlights": ["Phosphate ore price forecast model", "LFP battery input demand model"]
     }
   ],

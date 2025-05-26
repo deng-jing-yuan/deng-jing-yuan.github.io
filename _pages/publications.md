@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Academic
+permalink: /academic/
+title: Research
 description: Academic publications and work in progress
 nav: true
 nav_order: 2
