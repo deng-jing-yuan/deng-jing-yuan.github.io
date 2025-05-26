@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Jing-Yuan
 middle_name:
 last_name: Deng
@@ -635,7 +635,6 @@ jsonresume:
   - work
   - education
   - publications
-  - certificates
   - skills
   - languages
   - interests
