@@ -640,16 +640,4 @@ jsonresume:
   - languages
   - interests
   - references
-
-navbar:
-  - title: "About"
-    url: "/"
-  - title: "Research"
-    url: "/academic/"
-  - title: "Policy"
-    url: "/policy/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "CV"
-    url: "/cv/"
-    
+  
