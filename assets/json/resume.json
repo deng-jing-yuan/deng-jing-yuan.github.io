@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "World Bank",
+      "location": "Remote",
+      "position": "Part-Time Consultant",
+      "url": "",
+      "startDate": "2024-11-01",
+      "endDate": "2025-06-01",
+      "summary": "Macroeconomics, Trade, and Investment (MTI) Practice, Middle East and North Africa"
+    },
+    {
       "name": "Asian Infrastructure Investment Bank",
       "location": "Beijing",
       "position": "Michaela Bergman Memorial Intern",
@@ -49,7 +58,7 @@
       "startDate": "2020-10-19",
       "endDate": "2021-10-29",
       "summary": "Agricultural and chemical commodities",
-      "highlights": ["Phosphate ore price forecast model", "LFP battery input demand model"]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -74,29 +83,29 @@
       "startDate": "2023",
       "endDate": "2028",
       "score": "",
-      "courses": [""]
+      "courses": []
     },
     {
       "institution": "London School of Economics",
       "location": "London",
       "url": "",
-      "area": "Economics",
+      "area": "Economics, with Distinction",
       "studyType": "MSc - Master of Science",
       "startDate": "2019",
       "endDate": "2020",
       "score": "Distinction",
-      "courses": [""]
+      "courses": []
     },
     {
       "institution": "London School of Economics",
       "location": "London",
       "url": "",
-      "area": "Philosophy and Economics",
+      "area": "Philosophy and Economics, with First Class Honours",
       "studyType": "BSc - Bachelor of Science",
       "startDate": "2016",
       "endDate": "2019",
       "score": "First Class Honours",
-      "courses": [""]
+      "courses": []
     }
   ],
   "awards": [
