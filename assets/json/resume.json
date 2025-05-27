@@ -78,7 +78,7 @@
       "institution": "University of Oxford",
       "location": "Oxford",
       "url": "",
-      "area": "Fully funded by Deparmental Doctoral Bursary and Melvyn-Young Graduate Scholarship in Economics from Trinity College",
+      "area": "Fully funded by Departmental Doctoral Bursary and Melvyn-Young Graduate Scholarship in Economics from Trinity College",
       "studyType": "DPhil in Economics",
       "startDate": "2023",
       "endDate": "2028",
@@ -110,11 +110,32 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Melvyn-Young Graduate Scholarship in Economics",
+      "date": "2023",
+      "awarder": "Trinity College, University of Oxford",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Departmental Doctoral Bursary and Tuition Fee Waiver",
+      "date": "2023",
+      "awarder": "Department of Economics, University of Oxford",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Ng Teng Fong Fellowship",
+      "date": "2023",
+      "awarder": "Harvard Kenney School",
+      "url": "",
+      "summary": "Declined"
+    },
+    {
+      "title": "Regents’ Scholarship",
+      "date": "2016",
+      "awarder": "Board of Regents, University of California",
+      "url": "",
+      "summary": "Declined"
     }
   ],
   "certificates": [
