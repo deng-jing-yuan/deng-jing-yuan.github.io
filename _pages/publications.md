@@ -2,7 +2,7 @@
 layout: page
 permalink: /academic/
 title: Research
-description: Academic publications and work in progress
+description: Academic publications and working papers
 nav: true
 nav_order: 2
 ---
