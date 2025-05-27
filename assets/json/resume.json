@@ -5,7 +5,7 @@
     "image": "",
     "email": "jingyuan.deng@economics.ox.ac.uk",
     "phone": "",
-    "url": "https://fu-man-chu.github.io/",
+    "url": "https://deng-jing-yuan.github.io/",
     "summary": "Doctoral student in economics",
     "location": {
       "address": "Department of Economics, Manor Road Building",
@@ -78,7 +78,7 @@
       "institution": "University of Oxford",
       "location": "Oxford",
       "url": "",
-      "area": "Fully Funded by deparmental doctoral bursary and Melvyn-Young Scholarship in Economics from Trinity College",
+      "area": "Fully funded by Deparmental Doctoral Bursary and Melvyn-Young Graduate Scholarship in Economics from Trinity College",
       "studyType": "DPhil in Economics",
       "startDate": "2023",
       "endDate": "2028",
@@ -89,7 +89,7 @@
       "institution": "London School of Economics",
       "location": "London",
       "url": "",
-      "area": "With Distinction",
+      "area": "Distinction",
       "studyType": "MSc in Economics",
       "startDate": "2019",
       "endDate": "2020",
@@ -100,7 +100,7 @@
       "institution": "London School of Economics",
       "location": "London",
       "url": "",
-      "area": "With First Class Honours",
+      "area": "First Class Honours",
       "studyType": "BSc in Philosophy and Economics",
       "startDate": "2016",
       "endDate": "2019",
@@ -194,6 +194,14 @@
         "Python",
         "Stata"
       ]
+    },
+    {
+      "name": "Econometrics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Causal inference"
+      ]
     }
   ],
   "languages": [
@@ -213,10 +221,20 @@
       "name": "Economics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Development Economics",
-        "Political Economy",
-        "Economic History",
-        "Causal Inference"
+        "Development economics",
+        "Political economy",
+        "Economic history",
+        "Industrial policy",
+        "Causal inference"
+      ]
+    },
+    {
+      "name": "History",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Great divergence",
+        "Comparative history",
+        "Global history"
       ]
     }
   ],
