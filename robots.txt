@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fu-man-chu.github.io/sitemap.xml
+Sitemap: https://deng-jing-yuan.github.io/sitemap.xml
