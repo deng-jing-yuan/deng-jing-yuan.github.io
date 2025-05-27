@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?hl=en&user=FSTGDEAAAAAJ'>Google Scholar</a> | <a href='https://www.linkedin.com/in/deng-jing-yuan/'>LinkedIn</a> | <a href='mailto:jingyuan.deng@economics.ox.ac.uk'>Email</a>
+subtitle: <a href='https://scholar.google.com/citations?hl=en&user=FSTGDEAAAAAJ'>**Google Scholar**</a> | <a href='https://www.linkedin.com/in/deng-jing-yuan/'>**LinkedIn**</a> | <a href='mailto:jingyuan.deng@economics.ox.ac.uk'>**Email**</a>
 
 profile:
   align: left
