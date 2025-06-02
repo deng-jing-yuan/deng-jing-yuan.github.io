@@ -184,6 +184,7 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/blog.md
+  - _pages/projects.md
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/teaching.md
@@ -634,7 +635,6 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
   - awards
   - languages
   - skills
