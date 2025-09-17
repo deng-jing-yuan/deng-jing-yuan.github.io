@@ -6,7 +6,7 @@ subtitle: <a href='https://scholar.google.com/citations?hl=en&user=FSTGDEAAAAAJ'
 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -30,3 +30,4 @@ latest_posts:
 
 I'm a doctoral student in economics at Oxford, working on development economics and political economy. I'm interested in how institutions and the state shape economic growth and development.
 
+My name is pronounced 'Ching Yuan', as it would be written under the Wade-Giles Latinization of Chinese.
