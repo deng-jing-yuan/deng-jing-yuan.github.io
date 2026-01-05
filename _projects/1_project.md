@@ -8,7 +8,7 @@ category:
 giscus_comments: true
 ---
 
-Below is a table of monarchs of each major state by state and time. The table can be quite helpful for checking who was contemporaneous with whom. Plans are underway to expand this table to include major thinkers of this period.
+Below is a table of monarchs of each major state during the Spring and Autumn period and Warring States period, by state and time. The table can be quite helpful for checking who was contemporaneous with whom. Plans are underway to expand this table to include major thinkers of this period.
 
 The table begins with the first event recorded in Zuo Zhuan/左傳, the civil war between Duke Zhuang of Zheng and his brother Duan in 722 BC.
 
