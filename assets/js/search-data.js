@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/policy/";
           },
+        },{id: "nav-resources",
+          title: "Resources",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -30,15 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-empire-strikes-back-the-chinese-imperial-bureaucracy-is-alive-and-well",
         
-          title: "a post with plotly.js",
+          title: "Empire strikes back - the Chinese imperial bureaucracy is alive and well",
         
         description: "this is what included plotly.js code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/empire-strikes-back/";
+          
+        },
+      },{id: "post-an-economist-39-s-crash-course-on-chinese-history",
+        
+          title: "An Economist&#39;s Crash Course on Chinese History",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chinese-history-series/";
           
         },
       },{id: "post-a-post-with-image-galleries",
