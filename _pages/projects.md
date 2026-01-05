@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
-description: A growing collection of your cool projects.
+description: Data and compilations
 nav: true
 nav_order: 4
 display_categories: [work, fun]
