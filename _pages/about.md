@@ -25,9 +25,9 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts 
 ---
 
-I'm a doctoral student in economics at Oxford, working on development economics and political economy. I'm interested in how institutions and the state shape economic growth and development.
+I'm a doctoral student in economics at Oxford, working on development economics and political economy. I'm interested in how soceities are organized, and what the attandent consequences are for economic growth and development.
 
-My name is pronounced 'Ching Yuan', as it would be written under the Wade-Giles Latinization of Chinese.
+My name is pronounced 'Chin Yuan', per Wade-Giles Latinization.
