@@ -7,9 +7,9 @@ importance: 1
 category: 
 ---
 
-Below is a table of monarchs of each major state during the Spring and Autumn period and Warring States period, by state and time. The table can be quite helpful for checking who was contemporaneous with whom. Plans are underway to expand this table to include major thinkers of this period.
+Below is a table of monarchs of each major state during the Spring and Autumn period and Warring States period, by state and time. The table can be quite helpful for checking who was contemporaneous with whom. Plans are underway to expand this table to include the major thinkers of this period.
 
-The table begins with the first event recorded in Zuo Zhuan/左傳, the civil war between Duke Zhuang of Zheng and his brother Duan in 722 BC, and ends with the Qin re-unification in 221 BC.
+The table begins with the chronologies of Spring and Autumn Annals/春秋 and the Commentary of Zuo/左傳 in 722 BC, and ends with the Qin re-unification in 221 BC.
 
 Some states only became relevant in certain periods of history (e.g. Yue/越), and others ceased to relevant (e.g. Lu/魯). Only when the state was relevant was its monarch displayed. If a state is annexed by another, then its reigning monarch will be changed to that of the annexing state. Jin/晉 experienced multiple episodes of internal division; hence the state is often represented by separate columns for the contemporaneous rulers.
 
