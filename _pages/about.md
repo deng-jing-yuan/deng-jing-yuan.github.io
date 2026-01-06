@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts 
 ---
 
-I'm a doctoral student in economics at Oxford, working on development economics and political economy. I'm interested in how different ways to organize soceities can lead to divergent patterns of economic growth and development. Like many others in this literature, I tend to use micro data and methods to answer macro questions.
+I'm a doctoral student in economics at Oxford, working on development economics and political economy. 
+
+I'm interested in how different ways to organize soceities can lead to divergent patterns of economic growth and development. Like many others in this literature, I tend to use micro data and methods to answer macro questions.
 
 My name is pronounced 'Chin Yuan', per Wade-Giles Latinization.
