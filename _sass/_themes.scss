@@ -1,19 +1,19 @@
 /*******************************************************************************
- * Themes
+ * Themes #fffcf7
  ******************************************************************************/
 
 @use "sass:color";
 
 :root {
   color-scheme: light;
-  --global-bg-color: #fffcf7;
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #014F86;
   --global-hover-color: #014F86;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #fffcf7;
+  --global-footer-bg-color: #{$white-color};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
