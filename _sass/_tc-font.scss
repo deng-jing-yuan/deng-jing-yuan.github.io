@@ -14,7 +14,7 @@
 
 /* Global stack: prefer Latin serif for Latin, TC for Chinese glyphs */
 html, body {
-  font-family: 'Crimson Pro', 'Noto Serif TC', serif;
+  font-family: 'Crimson Pro', 'LXGW WenKai TC', serif;
   /* Noto Serif used for Latin; when browser encounters CJK code points,
      it will apply Noto Serif TC because of the unicode-range mapping above. */
 }
