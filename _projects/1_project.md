@@ -11,7 +11,7 @@ Below is a table of monarchs of each major state during the Spring and Autumn pe
 
 The table begins with the chronologies of Spring and Autumn Annals/春秋 and the Commentary of Zuo/左傳 in 722 BC, and ends with the Qin re-unification in 221 BC.
 
-Some states only became relevant in certain periods of history (e.g. Yue/越), and others ceased to relevant (e.g. Lu/魯). Only when the state was relevant was its monarch displayed. If a state is annexed by another, then its reigning monarch will be changed to that of the annexing state. Jin/晉 experienced multiple episodes of internal division; hence the state is often represented by separate columns for the contemporaneous rulers.
+Some states only became relevant later in history (e.g. Yue/越), and others ceased to relevant (e.g. Lu/魯). Only when the state was relevant was its monarch displayed. If a state is annexed by another, then its reigning monarch will be changed to that of the annexing state. Jin/晉 experienced multiple episodes of internal division; hence the state is often represented by separate columns for the contemporaneous rulers.
 
 <iframe
   src="/assets/pdf/eastern-zhou.pdf"

@@ -22,32 +22,32 @@
       }
     ]
   },
-  "work": [
+  "employment": [
     {
       "name": "World Bank",
       "location": "Remote",
       "position": "Part-Time Consultant",
       "url": "",
-      "startDate": "2024-11-01",
+      "startDate": "2024", // 2024-11-01
       "endDate": "Present",
-      "summary": "Economic Policy (EP) Practice"
+      "summary": "Economic Policy (EP) Practice; Chief Economist Office, Middle East and North Africa"
     },
     {
       "name": "Asian Infrastructure Investment Bank",
       "location": "Beijing",
       "position": "Michaela Bergman Memorial Intern",
       "url": "",
-      "startDate": "2023-07-01",
-      "endDate": "2023-10-01",
-      "summary": "Economics Department and Strategy, Policy and Budget Department"
+      "startDate": "2023", // 2023-07-01
+      "endDate": "", // 2023-10-01
+      "summary": "Economics Department; Strategy, Policy and Budget Department"
     },
     {
       "name": "World Bank",
       "location": "Washington, DC",
       "position": "Consultant",
       "url": "",
-      "startDate": "2021-11-01",
-      "endDate": "2023-07-01",
+      "startDate": "2021", // 2021-11-01
+      "endDate": "2023", // 2023-07-01
       "summary": "Chief Economist Office, Middle East and North Africa"
     },
     {
@@ -55,8 +55,8 @@
       "location": "London",
       "position": "Research Analyst",
       "url": "",
-      "startDate": "2020-10-19",
-      "endDate": "2021-10-29",
+      "startDate": "2020", // 2020-10-19
+      "endDate": "2021", // 2021-10-29
       "summary": "Agricultural and chemical commodities",
       "highlights": []
     }

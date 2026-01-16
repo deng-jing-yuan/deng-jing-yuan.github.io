@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
-    <p>Manor Road Building</p>
-    <p>Oxford, UK OX1 3UQ</p>
+#    <p>Department of Economics</p>
+#    <p>Manor Road Building</p>
+#    <p>Oxford, UK OX1 3UQ</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
