@@ -40,4 +40,4 @@ I am a development economist. My over-arching interest is in how societies can a
 My work aims to explore the multiplicity of institutional equilibria that can deliver growth and development.
 -->
 
-My name is pronounced "Chin Yuan" (Wade-Giles), and I also go by Joe (with the useful property of first-letter invariance).
+My name is pronounced "Chin Yuan" (Wade-Giles), and I also go by Joe (with the useful property of initial-letter invariance).
