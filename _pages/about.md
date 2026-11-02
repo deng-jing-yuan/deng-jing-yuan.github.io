@@ -28,8 +28,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts 
 ---
 
-I'm a doctoral student in economics at Oxford, working on development economics and political economy. 
+I'm a doctoral student in economics at Oxford, working on economic development and political economy. 
 
-I'm interested in how different ways to organize soceities can lead to divergent patterns of economic growth and development. Like many others in this literature, I tend to use micro data and methods to answer macro questions.
+Within the intersection, my interests are broad. I'm interested in how different ways to organize societies can lead to divergent patterns of economic growth and development. Like many others in this literature, I tend to use micro data and methods to answer macro questions, but also visit structural models when they are the right tools.
 
-My name is pronounced 'Chin Yuan', per Wade-Giles Latinization.
+<!--
+formal as well as informal institutions, frontier as well as convergence economic development, and contemporary as well as historical contexts, using both structural models and causal inference. 
+
+I am a development economist. My over-arching interest is in how societies can achieve economic growth and development. I am interested in the non-obvious implications of both ‘classical’ and ‘non-classical’ determinants (Moscona, Nunn and Robinson 2026) that may run contrary to policymakers’ priors. 
+
+My work aims to explore the multiplicity of institutional equilibria that can deliver growth and development.
+-->
+
+My name is pronounced "Chin Yuan" (Wade-Giles), but Joe is a great shorthand with the useful property of first-letter invariance.
