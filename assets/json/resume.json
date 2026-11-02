@@ -23,13 +23,22 @@
     ]
   },
   "work": [
+      {
+      "name": "Amazon",
+      "location": "London",
+      "position": "Economist I Intern",
+      "url": "",
+      "startDate": "2026", // 2024-11-01
+      "endDate": "2026",
+      "summary": "Economic Decision Science"
+    },
     {
       "name": "World Bank",
       "location": "Remote",
       "position": "Part-Time Consultant",
       "url": "",
       "startDate": "2024", // 2024-11-01
-      "endDate": "Present",
+      "endDate": "2026",
       "summary": "Economic Policy (EP) Practice; Chief Economist Office, Middle East and North Africa"
     },
     {
