@@ -520,7 +520,7 @@ footer.sticky-bottom {
 
       .badge {
         color: $white-color !important;
-        background-color: var(--global-theme-color) !important;
+        background-color: var(--global-badge-color) !important;
       }
     }
   }
@@ -738,7 +738,7 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(--global-badge-color);
           margin-bottom: 0.5rem;
           color: $white-color !important;
 
